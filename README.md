@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay Singh  
 
-🚀 **Full Stack Developer **  
+🚀 **Full Stack Developer**  
 🎓 B.Tech CSE (IT) | Sage University, Indore  
 💻 Passionate about building scalable web applications & real-time systems  
 
